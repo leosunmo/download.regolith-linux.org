@@ -1,0 +1,16 @@
+---
+baseUrl: "https://download.regolith-linux.org/"
+releases:
+  - title: Regolith Linux 1.2
+    isoDownloadLink: Regolith-R1.2-desktop-amd64.iso
+    md5DownloadLink: Regolith-R1.2-desktop-amd64.md5
+    mirrors:
+      - "https://sourceforge.net/projects/regolith-linux/files/regolith-linux-r1.2/"
+  - title: Regolith Linux 1.1
+    isoDownloadLink: Regolith-R1.1-desktop-amd64.iso
+    md5DownloadLink: Regolith-R1.1-desktop-amd64.md5
+    mirrors:
+      - "https://sourceforge.net/projects/regolith-linux/files/regolith-linux-r1.1/"
+  - title: Regolith Linux 1
+    isoDownloadLink: Regolith-R1.1-desktop-amd64.iso
+    md5DownloadLink: Regolith-R1.1-desktop-amd64.md5
